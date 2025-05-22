@@ -39,3 +39,4 @@ app-example
 
 # Firebase config
 src/constants/firebase.env.ts
+src/constants/firebase.ts
